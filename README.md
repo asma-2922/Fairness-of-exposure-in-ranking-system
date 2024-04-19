@@ -1,7 +1,7 @@
 # Fairness-of-exposure-in-ranking-system
 
 ---
-This repository contains the PowerPoint presentation "Fairness of Exposure in Ranking" prepared by Team Phoenix. The presentation explores the crucial aspects of ranking systems, particularly focusing on the fairness of exposure. Here's an overview of the content covered:
+This repository explores the crucial aspects of ranking systems, particularly focusing on the fairness of exposure. 
 
 ### Key Concepts:
 - **Ranking and Exposure**: Discusses the definition of ranking as the process of ordering items (like search results or job applicants) based on relevance or other criteria, and exposure as the visibility these items receive in the ranking.
