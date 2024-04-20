@@ -1,9 +1,9 @@
 # Fairness-of-exposure-in-ranking-system
 
 ---
-[Link to the research paper we have implemented](https://arxiv.org/abs/1802.07281)
+🔗 [Link to the research paper we have implemented](https://arxiv.org/abs/1802.07281)
 
-[Link to the dataset](https://users.soe.ucsc.edu/~yiz/papers/data/YOWStudy/)
+🔗 [Link to the dataset](https://users.soe.ucsc.edu/~yiz/papers/data/YOWStudy/)
 
 This research paper explores the crucial aspects of ranking systems, particularly focusing on the fairness of exposure. 
 
